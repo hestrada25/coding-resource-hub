@@ -1,5 +1,16 @@
+body {
+    background-color: #F9EFDC;
+    color: #414535;
+    text-align: center;
+    width: 100vw;
+    font-family: 'Bacasime Antique';font-size: 22px;
+}
 .welcomepage {
     display: flex;
     flex-direction:column;
     align-items:center;
 }
+a {
+    text-decoration: none;
+    color: #352eb8;
+  }
